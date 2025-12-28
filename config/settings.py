@@ -83,7 +83,7 @@ DATABASES = {
         "ENGINE": "django.db.backends.postgresql",
         "NAME": "splitwise_db",
         "USER": "postgres",
-        "PASSWORD": "yourpassword",
+        "PASSWORD": "psql",
         "HOST": "localhost",
         "PORT": "5432",
     }
