@@ -22,5 +22,3 @@ urlpatterns = [
     path("admin/", admin.site.urls),
     path("expenses/", include("apps.expenses.urls")),
 ]
-
-
